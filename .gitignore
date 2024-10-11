@@ -1,0 +1,9 @@
+.env
+image/
+csv/
+myvenv
+*.csv
+*.zip
+__pycache__
+*.pth
+*.json
